@@ -1,6 +1,6 @@
 import React from 'react'
 import CategoryPage from '../CategoryPage/CategoryPage'
-import BgFruits from '../../assets/Grocery Website Assets/Fruits-banner.jpg'
+import BgFruits from '../../assets/Grocery Website Assets/fruits-banner.jpg'
 
 const Fruits = () => {
   return (
