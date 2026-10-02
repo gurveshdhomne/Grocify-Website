@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Button = (props) => {
+  return (
+<button className='bg-linear-to-b from-red-400 to-orange-500
+ text-white font-semibold py-2 px-5 rounded-2xl hover:scale-105 hover:to-orange-600 transaction-all duration-300'>
+  {props.content}
+  </button>
+  )
+}
+
+export default Button
